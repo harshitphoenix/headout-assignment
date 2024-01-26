@@ -28,7 +28,7 @@ To run the server and explore optimization strategies:
 1. Clone the repository to your local machine.
 2. Install Node.js and npm if not already installed.
 3. Install dependencies using `npm install`.
-4. Generate sample data files using `node generate_files.js`.
+4. Generate sample data files using `node generateDataFiles.js`.
 5. Start the server using `node index.js`.
 6. Access the server endpoints to test optimization strategies.
 
